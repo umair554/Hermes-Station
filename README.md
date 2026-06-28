@@ -22,9 +22,7 @@ Created by [@umair554](https://github.com/umair554)
 
 ## 🚀 Deploy on Hugging Face Spaces
 
-[![Duplicate this Space](https://huggingface.co/datasets/huggingface/badges/resolve/main/duplicate-this-space-md.svg)](https://huggingface.co/spaces/YOUR_SPACE_LINK_HERE?duplicate=true)
-
-> Replace `YOUR_SPACE_LINK_HERE` with the actual Space URL before sharing.
+[![Duplicate this Space](https://huggingface.co/datasets/huggingface/badges/resolve/main/duplicate-this-space-md.svg)](https://huggingface.co/spaces/5Y30/Hermes-Station?duplicate=true)
 
 ---
 
