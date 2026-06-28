@@ -1,3 +1,14 @@
+---
+title: Hermes Station
+emoji: 🚉
+colorFrom: gray
+colorTo: blue
+sdk: docker
+app_port: 7861
+startup_duration_timeout: 30m
+---
+
+
 # 🚉 Hermes Station
 
 > **The complete workspace for Hermes Agent & WebUI.**
