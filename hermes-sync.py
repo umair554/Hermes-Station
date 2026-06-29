@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 """Hermes_Station Hermes state backup via Hugging Face Datasets.
-
-Based on the original HuggingMes project.
 Backs up HERMES_HOME (which includes /opt/data/webui — the hermes-webui state dir)
 so sessions, profiles, skills, cron, memory, and workspace all survive restarts.
 """
